@@ -1,0 +1,84 @@
+# Copyright (C) 2024 Van Ons
+# This file is distributed under the MIT.
+msgid ""
+msgstr ""
+"Project-Id-Version: VO HTML Sitemap 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vo-html-sitemap\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-29T09:49:29+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: vo-html-sitemap\n"
+
+#. Plugin Name of the plugin
+#: src/Core/SettingsPage.php:63
+msgid "VO HTML Sitemap"
+msgstr ""
+
+#. Description of the plugin
+msgid "Van Ons plugin to add an HTML sitemap to your site."
+msgstr ""
+
+#. Author of the plugin
+msgid "Van Ons"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://van-ons.nl/"
+msgstr ""
+
+#: resources/views/admin/settings.php:18
+msgid "Post types"
+msgstr ""
+
+#: resources/views/admin/settings.php:23
+msgid "Post types to include in the sitemap"
+msgstr ""
+
+#: resources/views/admin/settings.php:38
+msgid "Sitemap page"
+msgstr ""
+
+#: resources/views/admin/settings.php:43
+msgid "Select a page"
+msgstr ""
+
+#: resources/views/admin/settings.php:51
+msgid "After changing this setting you need to re-save your permalink settings."
+msgstr ""
+
+#: resources/views/admin/settings.php:54
+msgid "Permalink Settings"
+msgstr ""
+
+#: resources/views/sitemap-range.php:25
+msgid "Nothing found"
+msgstr ""
+
+#: src/Core/SettingsPage.php:40
+msgid "VO HTML Sitemap Settings"
+msgstr ""
+
+#: src/Core/SettingsPage.php:64
+msgid "HTML Sitemap"
+msgstr ""
+
+#: src/Pages/LastWeek.php:46
+msgid "Last week"
+msgstr ""
+
+#: src/Pages/ThisWeek.php:46
+msgid "This week"
+msgstr ""
+
+#: src/Pages/Today.php:49
+msgid "Today"
+msgstr ""
+
+#: src/Pages/Yesterday.php:49
+msgid "Yesterday"
+msgstr ""
